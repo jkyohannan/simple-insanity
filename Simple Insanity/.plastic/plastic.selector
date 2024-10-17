@@ -1,0 +1,4 @@
+repository "Simple Insanity@jkyohannan@cloud"
+  path "/"
+    br "/main"
+    co "/main"
